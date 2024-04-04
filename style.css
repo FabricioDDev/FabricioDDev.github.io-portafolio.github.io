@@ -164,6 +164,21 @@ footer {
     }
 
         #about img {
+            height: 18%;
+            width: 85%;
+        }
+
+    .btn-fixed img {
+        height: 80%;
+        width: 60%;
+    }
+}
+@media (min-width: 330px) {
+    #about {
+        width: 50%;
+    }
+
+        #about img {
             height: 22%;
             width: 85%;
         }
@@ -251,3 +266,4 @@ footer {
         color: white;
     }
 }
+
